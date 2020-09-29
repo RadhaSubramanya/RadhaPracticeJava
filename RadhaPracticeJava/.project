@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Practice Project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources/translations/Translate_en_US.properties</name>
+			<type>1</type>
+			<location>B:/Tuition/Project/resources/translations/Translate_en_US.properties</location>
+		</link>
+		<link>
+			<name>resources/translations/Translate_ge_GE.properties</name>
+			<type>1</type>
+			<location>B:/Tuition/Project/resources/translations/Translate_ge_GE.properties</location>
+		</link>
+		<link>
+			<name>resources/translations/Translate_hi_IN.properties</name>
+			<type>1</type>
+			<location>B:/Tuition/Project/resources/translations/Translate_hi_IN.properties</location>
+		</link>
+		<link>
+			<name>resources/translations/Translate_ka_IN.properties</name>
+			<type>1</type>
+			<location>B:/Tuition/Project/resources/translations/Translate_ka_IN.properties</location>
+		</link>
+	</linkedResources>
+</projectDescription>
